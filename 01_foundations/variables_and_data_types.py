@@ -13,7 +13,5 @@ is_true = True  # bool
 # print('I\'m ' + str(height) + ' centimetres tall')
 
 # Display a boolean statement
-if (age == 20):
-    print('Ylldrit is indeed 20')
-else:
-    print('That\'s not quite right')
+print(19 < 20)  # True
+print(20 < 19)  # False
