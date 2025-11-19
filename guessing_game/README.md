@@ -31,7 +31,7 @@ This project is part of my **Python learning journey**.
 
 Make sure you have Python installed, then run:
 
-py guessing_game.py
+`py guessing_game.py`
 
 You will be prompted to enter guesses until you win or run out of attempts.
 
@@ -47,7 +47,7 @@ You will be prompted to enter guesses until you win or run out of attempts.
 The structure and concept of this project were based on the following tutorial:
 
 > [*"How to Code a Simple Number Guessing Game in Python"*](https://dev.to/balapriya/how-to-code-a-simple-number-guessing-game-in-python-4jai) <br>
-by Balapriya, on DEV Community
+by Bala Priya C, on DEV Community
 
 I adapted and customised the code as part of my learning.
 
